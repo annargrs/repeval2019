@@ -1,4 +1,0 @@
-Sitemap: https://repeval2019.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: repeval2019.github.io
