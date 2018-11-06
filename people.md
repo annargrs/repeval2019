@@ -38,4 +38,5 @@ permalink: /people/
 * Karl Stratos
 * Ivan Vulic
 * Denis Paperno
+* Yulia Tsvetkov
 * Luke Zettlemoyer
