@@ -22,21 +22,27 @@ permalink: /people/
 ## Program committee
   
 * Omri Abend
-* Emily Bender
+* Emily Bender 
 * Gemma Boleda
-* Sam Bowman
-* Jose Camacho Collados
+* Sam Bowman 
+* Jose Camacho Collados 
 * Alexis Conneau
-* Allyson Ettinger
-* Alona Fyshe
-* Mohit Iyyer
+* Georgiana Dinu
+* Allyson Ettinger 
+* Alona Fyshe 
+* Mohit Iyyer 
+* Douwe Kiela
 * Jonathan K. Kummerfeld
 * Tal Linzen
-* Ellie Pavlick
+* Preslav Nakov 
+* Neha Nayak
+* Mark Neumann
+* Denis Paperno 
+* Ellie Pavlick 
 * Roi Reichart
 * Vered Schwarz
+* Diarmuid O'Seaghdha
 * Karl Stratos
-* Ivan Vulic
-* Denis Paperno
 * Yulia Tsvetkov
-* Luke Zettlemoyer
+* Ivan Vulic 
+* Luke Zettlemoyer 
