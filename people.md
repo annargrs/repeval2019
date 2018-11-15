@@ -27,6 +27,7 @@ permalink: /people/
 * Sam Bowman 
 * Jose Camacho Collados 
 * Alexis Conneau
+* Barry Devereux
 * Georgiana Dinu
 * Allyson Ettinger 
 * Alona Fyshe 
@@ -42,6 +43,7 @@ permalink: /people/
 * Roi Reichart
 * Vered Schwarz
 * Diarmuid O'Seaghdha
+* Gabriel Stanovsky
 * Karl Stratos
 * Yulia Tsvetkov
 * Ivan Vulic 
