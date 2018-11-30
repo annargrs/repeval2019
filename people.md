@@ -30,7 +30,6 @@ permalink: /people/
 * Barry Devereux
 * Georgiana Dinu
 * Allyson Ettinger 
-* Alona Fyshe 
 * Mohit Iyyer 
 * Douwe Kiela
 * Jonathan K. Kummerfeld
@@ -41,7 +40,7 @@ permalink: /people/
 * Denis Paperno 
 * Ellie Pavlick 
 * Roi Reichart
-* Vered Schwarz
+* Vered Shwartz
 * Diarmuid O'Seaghdha
 * Gabriel Stanovsky
 * Karl Stratos
