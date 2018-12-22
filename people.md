@@ -31,6 +31,7 @@ permalink: /people/
 * Georgiana Dinu
 * Allyson Ettinger 
 * Mohit Iyyer 
+* Hila Gonen
 * Douwe Kiela
 * Jonathan K. Kummerfeld
 * Tal Linzen
