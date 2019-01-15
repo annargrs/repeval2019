@@ -27,7 +27,7 @@ RepEval 2019 invites submissions including, but not limited to the following iss
 
 ## Submission Types and Requirements
 
-The workshop will accept submissions through two tracks: research and shared task. Research paper submissions may consist of 4-6 pages of content, plus unlimited references. Shared task submissions may consist of up to four (4) pages of content, plus unlimited references. An additional page in the camera-ready version will be available for addressing reviewers’ comments.
+The workshop will accept submissions through two tracks: research and shared task. Research paper submissions may consist of 4-6 pages of content, plus unlimited references. Shared task submissions may consist of up to 4 pages of content, plus unlimited references. An additional page in the camera-ready version will be available for addressing reviewers’ comments.
 
 Please refer to the NAACL author guidelines for the style files, policy on double submissions and preprints: https://naacl2019.org/calls/papers/#author-guidelines
 
