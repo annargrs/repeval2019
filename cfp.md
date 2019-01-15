@@ -64,15 +64,15 @@ Each proposal should explicitly mention:
 
 ## Paper Submission
 
-Submission is electronic, using the Softconf START conference management for both long and short papers (submission URL will be provided soon). All accepted papers must be presented at the workshop to appear in the proceedings. At least one author of each accepted paper must register for the workshop by the early registration deadline.
+Submission is electronic, using the Softconf START conference management at https://www.softconf.com/naacl2019/repeval/
 
-Previous presentations of the work (e.g. preprints on arXiv.org) should be indicated in a footnote that should be excluded from the review submission, but included in the final version of papers appearing in the NAACL-HLT 2019 proceedings.
+All accepted papers must be presented at the workshop to appear in the proceedings. At least one author of each accepted paper must register for the workshop by the early registration deadline. Previous presentations of the work (e.g. preprints on arXiv.org) should be indicated in a footnote that should be excluded from the review submission, but included in the final version of papers appearing in the NAACL-HLT 2019 proceedings.
 
 ## Important Dates
 
 - ~~First call for workshop papers: December 22, 2018~~
 
-- Second call for workshop papers: January 15, 2019
+- ~~Second call for workshop papers: January 15, 2019~~
 
 - Shared task training data released: January 24, 2019
 
