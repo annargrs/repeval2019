@@ -35,7 +35,7 @@ Please refer to the NAACL author guidelines for the style files, policy on doubl
 
 The research track will showcase proposals for new evaluation techniques for old and new representations; the submissions are expected to experimentally demonstrate the benefits of the new approach. We also invite critical analysis and/or negative results for the existing approaches.
 
-We welcome both theoretical analysis (especially from experts in other domains such as linguistics or psychology) and methodological caveats (reproducibility, parameters, the issue of attribution of results to the representation or the whole system).
+We welcome both theoretical analysis (especially from experts in other domains such as linguistics or psychology) and methodological caveats (reproducibility, parameters impact, the issue of attribution of results to the representation or the whole system, dataset structure/balance/representativeness).
 
 Theoretical papers might like to consider the following questions:
 
