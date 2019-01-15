@@ -47,5 +47,5 @@ permalink: /people/
 * Gabriel Stanovsky
 * Karl Stratos
 * Yulia Tsvetkov
-* Ivan Vulic 
+* Ivan Vulić
 * Luke Zettlemoyer 
