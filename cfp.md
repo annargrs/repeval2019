@@ -84,7 +84,7 @@ All accepted papers must be presented at the workshop to appear in the proceedin
 
 - Notification of acceptance: March 27, 2019
 
-- Camera-ready papers due (firm deadline): April 5, 2019
+- Camera-ready papers due: April 5, 2019
 
 - Workshop date: June 6, 2019
 
