@@ -40,6 +40,7 @@ permalink: /people/
 * Mark Neumann
 * Denis Paperno 
 * Ellie Pavlick 
+* Marek Rei
 * Roi Reichart
 * Vered Shwartz
 * Diarmuid O'Seaghdha
