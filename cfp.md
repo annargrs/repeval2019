@@ -27,13 +27,9 @@ RepEval 2019 invites submissions including, but not limited to the following iss
 
 ## Submission Types and Requirements
 
-The workshop will accept submissions through two tracks: research and shared task. Research paper submissions may consist of 4-6 pages of content, plus unlimited references. Shared task submissions may consist of up to 4 pages of content, plus unlimited references. An additional page in the camera-ready version will be available for addressing reviewers’ comments.
+Research paper submissions may consist of 4-6 pages of content, plus unlimited references. An additional page in the camera-ready version will be available for addressing reviewers’ comments. Please refer to the NAACL author guidelines for the style files, policy on double submissions and preprints: https://naacl2019.org/calls/papers/#author-guidelines
 
-Please refer to the NAACL author guidelines for the style files, policy on double submissions and preprints: https://naacl2019.org/calls/papers/#author-guidelines
-
-## Research papers
-
-The research track will showcase proposals for new evaluation techniques for old and new representations; the submissions are expected to experimentally demonstrate the benefits of the new approach. We also invite critical analysis and/or negative results for the existing approaches.
+We invite proposals for new evaluation techniques for old and new representations; the submissions are expected to experimentally demonstrate the benefits of the new approach. Submissions may also contribute critical analysis and/or negative results for the existing approaches. 
 
 We welcome both theoretical analysis (especially from experts in other domains such as linguistics or psychology) and methodological caveats (reproducibility, parameters impact, the issue of attribution of results to the representation or the whole system, dataset structure/balance/representativeness).
 
@@ -60,7 +56,7 @@ Each proposal should explicitly mention:
 
 ## Shared task
 
-[RepEval2019 shared task](cfp.md) invites submissions of new word embedding models to be evaluated on MultiEval, a new suite of intrinsic and extrinsic tasks. The participants will need to train their models on the corpus that will be provided by the organizers on January 15th, and submit the resulting representations to the organizers by February 24th. The results will be made public on the workshop website by February 28th. Shared task papers (up to 4 pages + unlimited references) will be due by March 6th.
+RepEval 2019 shared task has been cancelled. 
 
 ## Paper Submission
 
@@ -73,12 +69,6 @@ All accepted papers must be presented at the workshop to appear in the proceedin
 - ~~First call for workshop papers: December 22, 2018~~
 
 - ~~Second call for workshop papers: January 15, 2019~~
-
-- Shared task training data released: January 24, 2019
-
-- Shared task submissions due: February 24, 2019
-
-- Shared task results announced: before February 28, 2019
 
 - Workshop papers due: March 6, 2019
 
