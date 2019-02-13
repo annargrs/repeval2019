@@ -13,13 +13,12 @@ permalink: /people/
 
 * [Yoav Goldbgerg](https://www.cs.bgu.ac.il/~yoavg/uni/), Bar-Ilan University
 
-## Invited speakers
+## Invited speakers (in alphabetical order)
 
 * [Anders Søgaard](https://anderssoegaard.github.io/), University of Copenhagen
+* [Kristina Toutanova](http://kristinatoutanova.com/), Google
 
-(more to follow)
-
-## Program committee
+## Program committee (in alphabetical order)
   
 * Omri Abend
 * Emily Bender 
