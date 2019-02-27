@@ -22,7 +22,6 @@ permalink: /people/
   
 * Omri Abend
 * Emily Bender 
-* Gemma Boleda
 * Sam Bowman 
 * Jose Camacho Collados 
 * Alexis Conneau
