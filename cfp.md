@@ -72,7 +72,7 @@ All accepted papers must be presented at the workshop to appear in the proceedin
 
 - ~~Workshop papers due: March 8, 2019 (extended)~~
 
-- Notification of acceptance: March 27, 2019
+- Notification of acceptance: March 29, 2019 (extended)
 
 - Camera-ready papers due: April 5, 2019
 
