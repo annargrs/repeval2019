@@ -17,19 +17,19 @@ permalink: /program/
 
 **13.30 - 14.45** Oral session
 
- - *Neural Vector Conceptualization for Word Vector Space Interpretation*
+ - **13.30 - 13.45** *Neural Vector Conceptualization for Word Vector Space Interpretation*
     Robert Schwarzenberg, Lisa Raithel and David Harbecke 
 
- - *Characterizing the Impact of Geometric Properties of Word Embeddings on Task Performance*
+ - **13.45 - 14.00** *Characterizing the Impact of Geometric Properties of Word Embeddings on Task Performance*
     Brendan Whitaker, Denis Newman-Griffis, Aparajita Haldar, Hakan Ferhatosmanoglu and Eric Fosler-Lussier 
 
- - *The Influence of Down-Sampling Strategies on SVD Word Embedding Stability*
+ - **14.00 - 14.15** *The Influence of Down-Sampling Strategies on SVD Word Embedding Stability*
     Johannes Hellrich, Bernd Kampe and Udo Hahn 
 
- - *How well do Embedding Models capture Non-compositionality? A View from Multiword Expressions*
+ - **14.15 - 14.30** *How well do Embedding Models capture Non-compositionality? A View from Multiword Expressions*
     Navnita Nandakumar, Bahar Salehi and Timothy Baldwin 
 
- - Measuring Semantic Abstraction of Multilingual NMT with Paraphrase Recognition and Generation Tasks*
+ - **14.30 - 14.45** Measuring Semantic Abstraction of Multilingual NMT with Paraphrase Recognition and Generation Tasks*
    Jörg Tiedemann and Yves Scherrer 
 
 **14:45 - 15:00** 1-minute poster madness  
