@@ -5,36 +5,36 @@ permalink: /program/
 
 ## The program of the workshop
 
-**09:00 - 09:30** Opening remarks. Evaluation of meaning representations for NLP: directions and milestones. 
+<span style="color:#267CB9"> 09:00 - 09:30</span> Opening remarks. Evaluation of meaning representations for NLP: directions and milestones. 
 
-**09:30 - 10:30** *Invited talk: Tal Linzen* (Johns Hopkins University) 
+<span style="color:#267CB9"> 09:30 - 10:30</span> *Invited talk: Tal Linzen* (Johns Hopkins University) 
 
-**10:30 - 11:00** Coffee break 
+<span style="color:#267CB9"> 10:30 - 11:00</span> Coffee break 
 
-**11:00 - 12:00** *Invited talk: Kristina Toutanova* (Google AI) 
+<span style="color:#267CB9"> 11:00 - 12:00</span> *Invited talk: Kristina Toutanova* (Google AI) 
 
-**12:00 - 13:30** Lunch 
+<span style="color:#267CB9"> 12:00 - 13:30</span> Lunch 
 
-**13.30 - 14.45** Oral session
+<span style="color:#267CB9"> 13.30 - 14.45</span> Oral session
 
- - **13.30 - 13.45** *Neural Vector Conceptualization for Word Vector Space Interpretation*
+ - <span style="color:#267CB9"> 13.30 - 13.45</span> *Neural Vector Conceptualization for Word Vector Space Interpretation*
     Robert Schwarzenberg, Lisa Raithel and David Harbecke 
 
- - **13.45 - 14.00** *Characterizing the Impact of Geometric Properties of Word Embeddings on Task Performance*
+ - <span style="color:#267CB9"> 13.45 - 14.00</span> *Characterizing the Impact of Geometric Properties of Word Embeddings on Task Performance*
     Brendan Whitaker, Denis Newman-Griffis, Aparajita Haldar, Hakan Ferhatosmanoglu and Eric Fosler-Lussier 
 
- - **14.00 - 14.15** *The Influence of Down-Sampling Strategies on SVD Word Embedding Stability*
+ - <span style="color:#267CB9"> 14.00 - 14.15</span> *The Influence of Down-Sampling Strategies on SVD Word Embedding Stability*
     Johannes Hellrich, Bernd Kampe and Udo Hahn 
 
- - **14.15 - 14.30** *How well do Embedding Models capture Non-compositionality? A View from Multiword Expressions*
+ - <span style="color:#267CB9"> 14.15 - 14.30</span> *How well do Embedding Models capture Non-compositionality? A View from Multiword Expressions*
     Navnita Nandakumar, Bahar Salehi and Timothy Baldwin 
 
- - **14.30 - 14.45** Measuring Semantic Abstraction of Multilingual NMT with Paraphrase Recognition and Generation Tasks*
+ - <span style="color:#267CB9"> 14.30 - 14.45</span> Measuring Semantic Abstraction of Multilingual NMT with Paraphrase Recognition and Generation Tasks*
    Jörg Tiedemann and Yves Scherrer 
 
-**14:45 - 15:00** 1-minute poster madness  
+<span style="color:#267CB9"> 14:45 - 15:00</span> 1-minute poster madness  
 
-**15.00 - 15.45** Poster session
+<span style="color:#267CB9"> 15.00 - 15.45</span> Poster session
 
  - *SWOW-8500: Word Association task for Intrinsic Evaluation of Word Embeddings*
     Avijit Thawani, Biplav Srivastava and Anil Singh 
@@ -60,8 +60,8 @@ permalink: /program/
  - *Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion*
     Jonathan Mamou, Oren Pereg, Moshe Wasserblat and Ido Dagan 
 
-**15:45 - 16:00** Coffee break 
+<span style="color:#267CB9"> 15:45 - 16:00</span> Coffee break 
 
-**16.00 - 17.15** *A linguist, an NLP engineer, and a psycholinguist walk into a bar...* Panel discussion with Sam Bowman, Ryan Cotterell, Barry Devereux, Allyson Ettinger, and Tal Linzen. 
+<span style="color:#267CB9"> 16.00 - 17.15</span> *A linguist, an NLP engineer, and a psycholinguist walk into a bar...* Panel discussion with Sam Bowman, Ryan Cotterell, Barry Devereux, Allyson Ettinger, and Tal Linzen. 
 
-**17:15 - 17:30** Closing remarks 
+<span style="color:#267CB9"> 17:15 - 17:30</span> Closing remarks 
