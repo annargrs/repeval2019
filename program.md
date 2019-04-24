@@ -3,7 +3,7 @@ title: Program
 permalink: /program/
 ---
 
-## The program of the workshop
+## <span style="color:#267CB9"> The program of the workshop </span>
 
 <span style="color:#267CB9"> 09:00 - 09:30</span> Opening remarks. Evaluation of meaning representations for NLP: directions and milestones. 
 

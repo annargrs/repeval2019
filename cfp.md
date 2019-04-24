@@ -4,13 +4,13 @@ title: CFP
 permalink: /cfp/
 ---
 
-# Call for papers
+# <span style="color:#267CB9"> Call for papers</span>
 
 General-purpose dense word embeddings have come a long way since the beginning of their boom in 2013, and they are still the most widely used way of representing words in both industrial and academic NLP systems. However, the issue of intrinsic metrics that are predictive of performance on downstream tasks, and can help to develop better representations, is far from being solved. At the sentence level and above, we now have a number of probing tasks and large extrinsic evaluation datasets targeting high-level verbal reasoning, but there is still much to learn about what features make a compositional representation successful. Last but not the least, there are no established intrinsic methods for newer kinds of representations such as ELMO, BERT, or box embeddings.
 
 The third edition of RepEval aims to foster discussion of the above issues, and to support the search for high-quality general purpose representation learning techniques for NLP. We hope to encourage interdisciplinary dialogue by welcoming diverse perspectives on the above issues: submissions may focus on properties of embedding space, performance analysis for various downstream tasks, as well as approaches based on linguistic and psychological data. In particular, experts from the latter fields are encouraged to contribute analysis of claims previously made in NLP community.
 
-## Topics
+## <span style="color:#267CB9"> Topics</span>
 
 RepEval 2019 invites submissions including, but not limited to the following issues:
 
@@ -25,7 +25,7 @@ RepEval 2019 invites submissions including, but not limited to the following iss
 - specialized vs general-purpose representations, and whether the latter have inherent limits in downstream tasks;
 - internal states of end-to-end systems as meaning representations, and ways to make more sense of them.
 
-## Submission Types and Requirements
+## <span style="color:#267CB9"> Submission Types and Requirements </span>
 
 Research paper submissions may consist of 4-6 pages of content, plus unlimited references. An additional page in the camera-ready version will be available for addressing reviewers’ comments. Please refer to the NAACL author guidelines for the style files, policy on double submissions and preprints: https://naacl2019.org/calls/papers/#author-guidelines
 
@@ -54,17 +54,17 @@ Each proposal should explicitly mention:
 - If any annotation was performed, what was the inter-annotator agreement, and how cost-effective would it be to scale it up and/or create a similar resource for other languages?
 - If the dataset collection involved human participants, personally identifiable information, social media or web data, please include the relevant details for the institutional review, license terms and permissions to use/release the data.
 
-## Shared task
+## <span style="color:#267CB9"> Shared task</span>
 
 RepEval 2019 shared task has been cancelled. 
 
-## Paper Submission
+## <span style="color:#267CB9"> Paper Submission </span>
 
 Submission is electronic, using the Softconf START conference management at https://www.softconf.com/naacl2019/repeval/
 
 All accepted papers must be presented at the workshop to appear in the proceedings. At least one author of each accepted paper must register for the workshop by the early registration deadline. Previous presentations of the work (e.g. preprints on arXiv.org) should be indicated in a footnote that should be excluded from the review submission, but included in the final version of papers appearing in the NAACL-HLT 2019 proceedings.
 
-## Important Dates
+## <span style="color:#267CB9"> Important Dates</span>
 
 - ~~First call for workshop papers: December 22, 2018~~
 
@@ -72,14 +72,14 @@ All accepted papers must be presented at the workshop to appear in the proceedin
 
 - ~~Workshop papers due: March 8, 2019 (extended)~~
 
-- Notification of acceptance: March 29, 2019 (extended)
+- ~~Notification of acceptance: March 29, 2019 (extended)~~
 
-- Camera-ready papers due: April 5, 2019
+- ~~Camera-ready papers due: April 5, 2019~~
 
 - Workshop date: June 6, 2019
 
 All deadlines are 11.59 pm UTC -12h.
 
-## Contact Information
+## <span style="color:#267CB9"> Contact Information</span>
 
 Email: repeval2019@googlegroups.com

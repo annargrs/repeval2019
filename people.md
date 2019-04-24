@@ -3,7 +3,7 @@ title: People
 permalink: /people/
 ---
 
-## Organizing committee
+## <span style="color:#267CB9"> Organizing committee</span>
 
 * [Anna Rogers](http://www.cs.uml.edu/~arogers/), University of Massachusetts Lowell
 
@@ -13,12 +13,12 @@ permalink: /people/
 
 * [Yoav Goldbgerg](https://www.cs.bgu.ac.il/~yoavg/uni/), Bar-Ilan University
 
-## Invited speakers (in alphabetical order)
+## <span style="color:#267CB9"> Invited speakers (in alphabetical order) </span>
 
-* [Anders Søgaard](https://anderssoegaard.github.io/), University of Copenhagen
+* [Tal Linzen](http://tallinzen.net/), Johns Hopkins University
 * [Kristina Toutanova](http://kristinatoutanova.com/), Google
 
-## Program committee (in alphabetical order)
+## <span style="color:#267CB9"> Program committee (in alphabetical order) </span>
   
 * Omri Abend
 * Emily Bender 
