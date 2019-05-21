@@ -5,6 +5,13 @@ permalink: /program/
 
 ## <span style="color:#267CB9"> The program of the workshop </span>
 
+The workshop will be held in Nicollet A 1-2 of Hyatt Regency in Minneapolis. 
+
+Poster session location: Hyatt Exhibit Hall on the Main Level.
+
+The floor plan is available [here](2019-NAACL-Minneapolis-Floorplans.pdf).
+
+
 <span style="color:#267CB9"> 09:00 - 09:30</span> Opening remarks. Evaluation of meaning representations for NLP: directions and milestones. 
 
 <span style="color:#267CB9"> 09:30 - 10:30</span> *Invited talk: Tal Linzen* (Johns Hopkins University) 
