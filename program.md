@@ -14,11 +14,13 @@ The floor plan is available [here](2019-NAACL-Minneapolis-Floorplans.pdf).
 
 <span style="color:#267CB9"> 09:00 - 09:30</span> Opening remarks. Evaluation of meaning representations for NLP: directions and milestones. 
 
-<span style="color:#267CB9"> 09:30 - 10:30</span> *Invited talk: Tal Linzen* (Johns Hopkins University) 
+<span style="color:#267CB9"> 09:30 - 10:30</span> *How well do neural NLP systems generalize?* <br/> Invited talk by [Tal Linzen](http://tallinzen.net/) (Johns Hopkins University) 
+
+> Neural networks have rapidly become central to NLP systems. While such systems often perform well on typical test set examples, their generalization abilities are often poorly understood. In this talk, I will demonstrate how experimental paradigms from psycholinguistics can help us characterize the gaps between the abilities of neural systems and those of humans, by focusing on interpretable axes of generalization from the training set rather than on average test set performance. I will show that recurrent neural network (RNN) language models are able to process syntactic dependencies in typical sentences with considerable success, but when evaluated on more complex syntactically controlled materials, their error rate increases sharply. Likewise, neural systems trained to perform natural language inference generalize much more poorly than their test set performance would suggest.
 
 <span style="color:#267CB9"> 10:30 - 11:00</span> Coffee break 
 
-<span style="color:#267CB9"> 11:00 - 12:00</span> *Invited talk: Kristina Toutanova* (Google AI) 
+<span style="color:#267CB9"> 11:00 - 12:00</span> *Invited talk: Kristina Toutanova* (Google AI) <br/> (TBA) 
 
 <span style="color:#267CB9"> 12:00 - 13:30</span> Lunch 
 
