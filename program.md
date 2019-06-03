@@ -24,6 +24,14 @@ The floor plan is available [here](2019-NAACL-Minneapolis-Floorplans.pdf).
 
 <span class="time"> 11:00 - 12:00</span> <span class="hl">Invited talk: Kristina Toutanova* (Google AI)</span> <br/> (TBA) 
 
+
+<span class="time"> 11:00 - 12:00</span> <span class="hl">
+Learning and evaluating generalizable vector space representations of texts</span> <br/> Invited talk by [Kristina Toutanova](http://kristinatoutanova.com/) (Google AI) 
+
+> I will talk about our recent and forthcoming work on pre-training vector space representations of texts of multiple granularities and in different contexts.  I will present evaluation on end-user tasks and an analysis of the component representations on probing tasks. Finally, I will motivate the need for new kinds of textual representations and ways to measure their ability to generalize across tasks.
+
+*Speaker bio*: Kristina Toutanova is a research scientist at Google Research in the  Language team in Seattle and an affiliate faculty at the University of Washington. She obtained her Ph.D. from Stanford University with Christopher Manning. Prior to joining Google in 2017, she was a researcher at Microsoft Research, Redmond. Kristina focuses on modeling the structure of natural language using machine learning, most recently in the areas of representation learning, question answering, information retrieval, semantic parsing, and knowledge base completion. Kristina is a past co-editor in chief of TACL and was a program co-chair for ACL 2014.
+
 <span class="time"> 12:00 - 13:30</span> Lunch 
 
 <span class="time"> 13.30 - 14.45</span> Oral session
