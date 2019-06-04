@@ -22,9 +22,6 @@ The floor plan is available [here](2019-NAACL-Minneapolis-Floorplans.pdf).
 
 <span class="time"> 10:30 - 11:00</span> Coffee break 
 
-<span class="time"> 11:00 - 12:00</span> <span class="hl">Invited talk: Kristina Toutanova* (Google AI)</span> <br/> (TBA) 
-
-
 <span class="time"> 11:00 - 12:00</span> <span class="hl">
 Learning and evaluating generalizable vector space representations of texts</span> <br/> Invited talk by [Kristina Toutanova](http://kristinatoutanova.com/) (Google AI) 
 
