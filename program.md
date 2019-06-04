@@ -36,47 +36,47 @@ Learning and evaluating generalizable vector space representations of texts</spa
 
 <span class="time"> 13.30 - 14.45</span> Oral session
 
- - <span class="time"> 13.30 - 13.45</span> <span class="hl">Neural Vector Conceptualization for Word Vector Space Interpretation</span> <br/>
+ - <span class="time"> 13.30 - 13.45</span> <span class="hl">Neural Vector Conceptualization for Word Vector Space Interpretation</span> ([PDF](https://www.aclweb.org/anthology/W19-2001))<br/>
     Robert Schwarzenberg, Lisa Raithel and David Harbecke 
 
- - <span class="time"> 13.45 - 14.00</span> <span class="hl">Characterizing the Impact of Geometric Properties of Word Embeddings on Task Performance</span> <br/>
+ - <span class="time"> 13.45 - 14.00</span> <span class="hl">Characterizing the Impact of Geometric Properties of Word Embeddings on Task Performance</span> ([PDF](https://www.aclweb.org/anthology/W19-2002))<br/>
     Brendan Whitaker, Denis Newman-Griffis, Aparajita Haldar, Hakan Ferhatosmanoglu and Eric Fosler-Lussier 
 
- - <span class="time"> 14.00 - 14.15</span> <span class="hl">The Influence of Down-Sampling Strategies on SVD Word Embedding Stability</span><br/>
+ - <span class="time"> 14.00 - 14.15</span> <span class="hl">The Influence of Down-Sampling Strategies on SVD Word Embedding Stability</span> ([PDF](https://www.aclweb.org/anthology/W19-2003))<br/>
     Johannes Hellrich, Bernd Kampe and Udo Hahn 
 
- - <span class="time"> 14.15 - 14.30</span> <span class="hl">How well do Embedding Models capture Non-compositionality? A View from Multiword Expressions</span> <br/>
+ - <span class="time"> 14.15 - 14.30</span> <span class="hl">How well do Embedding Models capture Non-compositionality? A View from Multiword Expressions</span> ([PDF](https://www.aclweb.org/anthology/W19-2004))<br/>
     Navnita Nandakumar, Bahar Salehi and Timothy Baldwin 
 
- - <span class="time"> 14.30 - 14.45</span> <span class="hl">Measuring Semantic Abstraction of Multilingual NMT with Paraphrase Recognition and Generation Tasks</span> <br/>
+ - <span class="time"> 14.30 - 14.45</span> <span class="hl">Measuring Semantic Abstraction of Multilingual NMT with Paraphrase Recognition and Generation Tasks</span> ([PDF](https://www.aclweb.org/anthology/W19-2005))<br/>
    Jörg Tiedemann and Yves Scherrer 
 
 <span class="time"> 14:45 - 15:00</span> 1-minute poster madness  
 
 <span class="time"> 15.00 - 15.45</span> Poster session
 
- - <span class="hl">SWOW-8500: Word Association task for Intrinsic Evaluation of Word Embeddings</span> <br/>
+ - <span class="hl">SWOW-8500: Word Association task for Intrinsic Evaluation of Word Embeddings</span> ([PDF](https://www.aclweb.org/anthology/W19-2006)) <br/>
     Avijit Thawani, Biplav Srivastava and Anil Singh 
 
-- <span class="hl">Classification of Semantic Paraphasias: Optimization of a Word Embedding Model</span> <br/>
+- <span class="hl">Classification of Semantic Paraphasias: Optimization of a Word Embedding Model</span> ([PDF](https://www.aclweb.org/anthology/W19-2007))<br/>
    Katy McKinney-Bock and Steven Bedrick 
 
- - <span class="hl">CODAH: An Adversarially Authored Question-Answer Dataset for Common Sense</span> <br/>
+ - <span class="hl">CODAH: An Adversarially Authored Question-Answer Dataset for Common Sense</span> ([PDF](https://www.aclweb.org/anthology/W19-2008))<br/>
     Michael Chen, Mike D'Arcy, Alisa Liu, Jared Fernandez and  Doug Downey
 
- - <span class="hl">Syntactic Interchangeability in Word Embedding Models</span> <br/>
+ - <span class="hl">Syntactic Interchangeability in Word Embedding Models</span> ([PDF](https://www.aclweb.org/anthology/W19-2009))<br/>
     Daniel Hershcovich, Assaf Toledo, Alon Halfon and Noam Slonim 
 
- - <span class="hl">Evaluation of Morphological Embeddings for English and Russian Languages</span> <br/>
+ - <span class="hl">Evaluation of Morphological Embeddings for English and Russian Languages</span> ([PDF](https://www.aclweb.org/anthology/W19-2010))<br/>
     Vitaly Romanov and Albina Khusainova 
 
- - <span class="hl">Probing Biomedical Embeddings from Language Models</span> <br/>
+ - <span class="hl">Probing Biomedical Embeddings from Language Models</span> ([PDF](https://www.aclweb.org/anthology/W19-2011))<br/>
     Qiao Jin, Bhuwan Dhingra, William Cohen and Xinghua Lu 
 
- - <span class="hl">Dyr bul shchyl. Proxying Sound Symbolism with Word Embeddings</span> <br/>
+ - <span class="hl">Dyr bul shchyl. Proxying Sound Symbolism with Word Embeddings</span> ([PDF](https://www.aclweb.org/anthology/W19-2012))<br/>
     Ivan Yamshchikov, Viascheslav Shibaev and Alexey Tikhonov 
 
- - <span class="hl">Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion</span> <br/>
+ - <span class="hl">Multi-Context Term Embeddings: the Use Case of Corpus-based Term Set Expansion</span> ([PDF](https://www.aclweb.org/anthology/W19-2013))<br/>
     Jonathan Mamou, Oren Pereg, Moshe Wasserblat and Ido Dagan 
 
 <span class="time"> 15:45 - 16:00</span> Coffee break 
