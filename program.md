@@ -12,9 +12,9 @@ Poster session location: Hyatt Exhibit Hall on the Main Level.
 The floor plan is available [here](2019-NAACL-Minneapolis-Floorplans.pdf).
 
 
-<span class="time"> 09:00 - 09:30</span> Opening remarks. Evaluation of meaning representations for NLP: directions and milestones. 
+<span class="time"> 09:00 - 09:30</span> Opening remarks. Evaluation of meaning representations for NLP: directions and milestones [<span class="hl">(SLIDES)</span>](RepEval2019_IntroductoryRemarks.pdf). 
 
-<span class="time"> 09:30 - 10:30</span> <span class="hl">How well do neural NLP systems generalize?</span> <br/> Invited talk by [Tal Linzen](http://tallinzen.net/) (Johns Hopkins University) 
+<span class="time"> 09:30 - 10:30</span> <span class="hl">How well do neural NLP systems generalize? [(SLIDES)](http://tallinzen.net/media/papers/linzen_repeval_2019_slides.pdf) </span> <br/> Invited talk by [Tal Linzen](http://tallinzen.net/) (Johns Hopkins University) 
 
 > Neural networks have rapidly become central to NLP systems. While such systems often perform well on typical test set examples, their generalization abilities are often poorly understood. In this talk, I will demonstrate how experimental paradigms from psycholinguistics can help us characterize the gaps between the abilities of neural systems and those of humans, by focusing on interpretable axes of generalization from the training set rather than on average test set performance. I will show that recurrent neural network (RNN) language models are able to process syntactic dependencies in typical sentences with considerable success, but when evaluated on more complex syntactically controlled materials, their error rate increases sharply. Likewise, neural systems trained to perform natural language inference generalize much more poorly than their test set performance would suggest.
 
